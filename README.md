@@ -17,6 +17,13 @@ Wrote several How to videos for my popular Integration blog. Tutorials include w
 ### How to Filter Objects using DataWeave?
 [Go to Tutorial](https://www.futureprooftechskills.com/post/dataweave-filter-objects)
 
+## cURL Tutorials
+cURL is a utility that allows users to transfer files. This tutorial shows ProstDev subscribers how to invoke APIs using cURL. 
+### The Power of cURL - Part I 
+[Go to Tutorial](https://www.prostdev.com/post/the-power-of-curl)
+### The Power of cURL - Part II 
+[Go to Tutorial](https://www.prostdev.com/post/the-power-of-curl-part-ii)
+
 ## MuleSoft Trailhead Work 
 ### Role: Sr. Curriculum Developer, MuleSoft, a Salesforce Company 
 #### Trailhead Get Started with MuleSoft RPA Builder Trail
@@ -84,7 +91,13 @@ Engagement Statistics:
 - Published October 27, 2022
 - 625 views
 - 29 likes
-- 4 comments
+- 4 comments 
 [Go to Studio Version 7.14](https://www.youtube.com/watch?v=eH2rPb7YtiU)
 
+## Instructional Design Tools:
+- Video Editing Software: 
+- Vie
 
+## Instructional Design Principles/Models
+- Creating Objectives: Bloom's Taxonomy 
+- Instructional Design Models: SAM and ADDIE 
