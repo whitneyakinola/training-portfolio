@@ -5,8 +5,9 @@ This serves as an instructional design and training portfolio for Whitney Akinol
 [View LinkedIn for Recommendations](https://www.linkedin.com/in/whitneyakinola) 
 
 ## MuleSoft DataWeave How-to Tutorials
-DataWeave is MuleSoft's propietary language. It is a powerful functional programming language similar to Scala. It can be ran inside a Mule 4 flow or as a standalone language invoked through the DataWeave CLI.
-Description
+DataWeave is MuleSoft's propietary language used for building data transformations. It is a powerful functional programming language similar to Scala. It can be ran inside a Mule 4 flow or as a standalone language invoked through the DataWeave CLI.
+
+Description:
 Wrote several How to videos for my popular Integration blog. Tutorials include written theory and application through a walkthrough. Readers can use the try-code feature to spin up there own DataWeave playground 
 ### How to Mask Sensitive Data using DataWeave? 
 [Go to Tutorial](https://futureproofconsult.com/blog/how-to-mask-sensitive-data-in-mule-4-using-dataweave)
