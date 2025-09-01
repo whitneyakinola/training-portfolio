@@ -9,13 +9,13 @@ DataWeave is MuleSoft's propietary language. It is a powerful functional program
 Description
 Wrote several How to videos for my popular Integration blog. Tutorials include written theory and application through a walkthrough. Readers can use the try-code feature to spin up there own DataWeave playground 
 ### How to Mask Sensitive Data using DataWeave? 
-[Go to Tutorial](https://www.futureprooftechskills.com/post/mask-sensitive-data-in-mule-4-with-dataweave-and-json-logger)
+[Go to Tutorial](https://futureproofconsult.com/blog/how-to-mask-sensitive-data-in-mule-4-using-dataweave)
 
 ### How Filter Arrays using DataWeave? 
-[Go to Tutorial](https://www.futureprooftechskills.com/post/dataweave-filter-arrays)
+[Go to Tutorial](https://futureproofconsult.com/blog/how-to-filter-arrays-using-dataweave)
 
 ### How to Filter Objects using DataWeave?
-[Go to Tutorial](https://www.futureprooftechskills.com/post/dataweave-filter-objects)
+[Go to Tutorial](https://futureproofconsult.com/blog/dataweave-filter-objects)
 
 ## cURL Tutorials
 cURL is a utility that allows users to transfer files. This tutorial shows ProstDev subscribers how to invoke APIs using cURL. 
@@ -95,8 +95,9 @@ Engagement Statistics:
 [Go to Studio Version 7.14](https://www.youtube.com/watch?v=eH2rPb7YtiU)
 
 ## Instructional Design Tools:
-- Video Editing Software: 
-- Vie
+- Video Editing Software: Camtasia
+- E-learning Software: Articulate 
+- Adobe Creative Cloud
 
 ## Instructional Design Principles/Models
 - Creating Objectives: Bloom's Taxonomy 
